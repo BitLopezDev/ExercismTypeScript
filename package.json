@@ -1,0 +1,16 @@
+{
+  "name": "exercismts",
+  "version": "0.0.0",
+  "description": "Exercises from Exercism for TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc && node index.js"
+  },
+  "author": "BitLopezDev",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "typescript": "^5.4.5"
+  }
+}
